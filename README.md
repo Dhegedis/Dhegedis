@@ -9,6 +9,7 @@ The Hardware portion of an amazon purchase is using a physical device to make an
 #### GitHub
 My experience with working with GitHub so far has been Stressful. I am normally pretty good with technology but this seems to be a little more difficult than usual. With cloud computing, it makes doing things online easier because it gives me mobile access to what I need. It is also helpful that we are able to be on a client server. Although we are not on a LAN, we are still on a server that allows us to directly connect with each other online. 
 #### Screen Capture
+The Software Association I utilized is the snipping tool. The name of the file is ScreenCapture. The Software Size is: 873KB. 
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
