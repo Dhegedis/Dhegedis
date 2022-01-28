@@ -11,9 +11,9 @@ My experience with working with GitHub so far has been Stressful. I am normally 
 #### Screen Capture
 The Software Association I utilized is the snipping tool. The name of the file is ScreenCapture. The Software Size is: 873KB. 
 #### Application, Utility, and Operating Systems
-#Operating Systems: Operating system software is software that is necessary on all computing devices to make your devices work. It is very essential because it makes your computers function. Examples of operating systems include Microsofts Windows, and Apple's Mac OS. 
-#Application Software: Application software is software that is made to accomplish specifc tasks that the user wants to do. Examples of applications would be word processing, calcualting on a spreadsheet, and using a specific browser to look things up on the internet. 
-#Utility software: Utility software is the software that makes a user able to modify their computer in many different ways. An example of this software is anti-malware software and programs. This software will remove software you no longer want installed. 
+Operating Systems: Operating system software is software that is necessary on all computing devices to make your devices work. It is very essential because it makes your computers function. Examples of operating systems include Microsofts Windows, and Apple's Mac OS. 
+Application Software: Application software is software that is made to accomplish specifc tasks that the user wants to do. Examples of applications would be word processing, calcualting on a spreadsheet, and using a specific browser to look things up on the internet. 
+Utility software: Utility software is the software that makes a user able to modify their computer in many different ways. An example of this software is anti-malware software and programs. This software will remove software you no longer want installed. 
 #### ERP
 The purpose of ERP was to make it so that there was an entire organization within one program. An example of a company that uses this software is Microsoft but there are many small and medium sized companys that use this system as well. 
 #### Virtualization
