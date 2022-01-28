@@ -11,9 +11,17 @@ My experience with working with GitHub so far has been Stressful. I am normally 
 #### Screen Capture
 The Software Association I utilized is the snipping tool. The name of the file is ScreenCapture. The Software Size is: 873KB. 
 #### Application, Utility, and Operating Systems
+#Operating Systems: Operating system software is software that is necessary on all computing devices to make your devices work. It is very essential because it makes your computers function. Examples of operating systems include Microsofts Windows, and Apple's Mac OS. 
+#Application Software: Application software is software that is made to accomplish specifc tasks that the user wants to do. Examples of applications would be word processing, calcualting on a spreadsheet, and using a specific browser to look things up on the internet. 
+#Utility software: Utility software is the software that makes a user able to modify their computer in many different ways. An example of this software is anti-malware software and programs. This software will remove software you no longer want installed. 
 #### ERP
+The purpose of ERP was to make it so that there was an entire organization within one program. An example of a company that uses this software is Microsoft but there are many small and medium sized companys that use this system as well. 
 #### Virtualization
+Virtualization is technology that was made to make you get the most out of one device. Instead of making one device do 1 task, you can make 1 device do 3 tasks simaltaniously. A simple example of this can be using an Xbox console to not only be able to play video games, but you can put a blue-ray player in it so it can also play movies. 
+Hypervisor: A hypervisor is a software that creates and runs virtual machines. This was made to give users access to computers that performed batch processing. 
 #### Python
+Python is an easy to learn programming lanuage. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. In simple terms, you can freely distribute copies of this software, read its source code, make changes to it, and use pieces of it in new free programs.
+The first program in discussion is writen in a compiled language like C or C++. This language has to be converted so that way your computer can understand it. The big difference with this program and Python is that Python does not have to converting anything at all. All you have to do is run the program and Python will do all of the work. 
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
