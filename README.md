@@ -34,6 +34,7 @@ I think that Hanndshake is a very good resource to find a job. I saw a position 
 #### Certifications, Certificates, and Degrees
 After looking over the 3 links, I think that the one that interested me the most was the Cisco certificate. Also, after looking at the Tri-C certificates. I noticed that we also have classes for a Cisco short term certificate which is interesting to me as well. 
 #### Industry Associations and Student Organizations
+An Organization that would be useful for me on my resume would be the Phi Thetta Kappa Organization. They would be beneficial because they are an hours program so employers might look at this and see that and possibly consider me over other people. 
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
