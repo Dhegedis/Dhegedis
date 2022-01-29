@@ -28,10 +28,12 @@ The first program in discussion is writen in a compiled language like C or C++. 
 
 ### Career Exploration
 #### Bureau of Labor Statistics
+So far I have seen the Job titled "Computer Support Specialist" that has interested me. Also, Computer System Analysts interesed me as well. 
 #### Handshake
+I think that Hanndshake is a very good resource to find a job. I saw a position for the Cleveland Guardians that was cool but I do not have the required specifications yet to pursue something like that. 
 #### Certifications, Certificates, and Degrees
+After looking over the 3 links, I think that the one that interested me the most was the Cisco certificate. Also, after looking at the Tri-C certificates. I noticed that we also have classes for a Cisco short term certificate which is interesting to me as well. 
 #### Industry Associations and Student Organizations
-
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
