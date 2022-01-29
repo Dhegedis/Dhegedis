@@ -22,6 +22,8 @@ Hypervisor: A hypervisor is a software that creates and runs virtual machines. T
 #### Python
 Python is an easy to learn programming lanuage. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. In simple terms, you can freely distribute copies of this software, read its source code, make changes to it, and use pieces of it in new free programs.
 The first program in discussion is writen in a compiled language like C or C++. This language has to be converted so that way your computer can understand it. The big difference with this program and Python is that Python does not have to converting anything at all. All you have to do is run the program and Python will do all of the work. 
+Python1: Python1 is the edit of the text to say "Hello, Dylan Hegedis"
+Python2: Python2 is the creation of a short program based on what I learned. 
 #### Graphic Modeling and Rendering
 #### File Compression
 #### Artificial Intelligence
