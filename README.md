@@ -52,6 +52,11 @@ The difference between SSD's and Traditional Hard Drives is that SSD's use chips
 The Ram is important because it is used so that way computers can access data and actually be able to use and run the data. By increasing your RAM, you are decreasing the amount of time that the data has to go from the hard drive and back which then in turn will make your computer process way faster. The difference between 64 and 32 bit data paths is how much data is transfered in 1 clock cycle. This also affects the speed of the computer based on the bit paths you have. 
 A difference between RAM and hard disk storage is that RAM moves things much faster than the hard disk. Another difference is that the RAM does not hold data for long periods of time. The hard disk storage is what is used for holding data for long periods of time unlike the RAM. 
 #### Data Representation
+Decimal representation is showing a number in decimal form aka. Base 10 (ex.1450)
+Binary representation is showing a number in the form of 1's and 0's/ only 2 digits (ex.10011001)
+Hexadecimal representation has a base of 16/ has 16 digits. (ex. 0123456789ABCDEF)
+3DecimalConversion.png: the file of putting 198 into Binary representation
+4BinaryConversion: conversion of binary form to decimal form 
 #### Operating Systems
 
 ### Networking
