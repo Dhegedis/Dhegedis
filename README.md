@@ -46,7 +46,11 @@ A truth table is a table that shows every possible output for all of your inputs
 #### IEEE
 IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity. In their code of ethics, they commit to uphold the highest standards of integrity, responsible behavior, and ethical conduct in professional activities. They also state to To treat all persons fairly and with respect, to not engage in harassment or discrimination, and to avoid injuring others. Lastly, they say they strive to ensure this code is upheld by colleagues and co-workers.
 #### Storage
+Latency is the average time for the sector being accessed to rotate into position under a head, after a completed seek. The disk transfer rate is the time it takes from data to go from the disk to the system. 
+The difference between SSD's and Traditional Hard Drives is that SSD's use chips that use flash memory which is much faster than the regular hard drive. 
 #### Memory
+The Ram is important because it is used so that way computers can access data and actually be able to use and run the data. By increasing your RAM, you are decreasing the amount of time that the data has to go from the hard drive and back which then in turn will make your computer process way faster. The difference between 64 and 32 bit data paths is how much data is transfered in 1 clock cycle. This also affects the speed of the computer based on the bit paths you have. 
+A difference between RAM and hard disk storage is that RAM moves things much faster than the hard disk. Another difference is that the RAM does not hold data for long periods of time. The hard disk storage is what is used for holding data for long periods of time unlike the RAM. 
 #### Data Representation
 #### Operating Systems
 
