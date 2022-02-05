@@ -39,8 +39,12 @@ After looking over the 3 links, I think that the one that interested me the most
 An Organization that would be useful for me on my resume would be the Phi Thetta Kappa Organization. They would be beneficial because they are an hours program so employers might look at this and see that and possibly consider me over other people. 
 ### Computer Architecture
 #### CPU
+The purpose of the CPU is that it functions as the brain of a computler. The ALU performs all of the math inside of a CPU. 
+When using a self-checkout machine at a grocery store, you are using a big computer to check out. It does many different tasks as well. The main 4 functions of a computer are imput, store, process, and output. You are imputting your items barcodes on the scanner and you then imput your payment method. The machine stores all your items bercodes and payment info in its system temporarly. The machine then processes the items scanned and calulates the price using the ALU. Then it outputs with finalizing your order and giving you a reciept.  
 #### Gates and Circuits
+A truth table is a table that shows every possible output for all of your inputs you put in. An AND Gate is that your imputs have to be the same to get the same output. An OR Gate is a gate that doesn't matter if you have the same 2 inputs, you can still have the same output.
 #### IEEE
+IEEE's core purpose is to foster technological innovation and excellence for the benefit of humanity. In their code of ethics, they commit to uphold the highest standards of integrity, responsible behavior, and ethical conduct in professional activities. They also state to To treat all persons fairly and with respect, to not engage in harassment or discrimination, and to avoid injuring others. Lastly, they say they strive to ensure this code is upheld by colleagues and co-workers.
 #### Storage
 #### Memory
 #### Data Representation
