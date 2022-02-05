@@ -57,7 +57,7 @@ Binary representation is showing a number in the form of 1's and 0's/ only 2 dig
 Hexadecimal representation has a base of 16/ has 16 digits. (ex. 0123456789ABCDEF)
 3DecimalConversion.png: the file of putting 198 into Binary representation
 4BinaryConversion: conversion of binary form to decimal form 
-The color being shown is a custom color with the description name "Vivied Violet". This color could be problematic because it is a custom color so people would not know the true identity of the color. 
+The color being shown is a custom color with the description name "Vivied Violet". This color could be problematic because it is a custom color so people would not know the true identity of the color. What needs to be considered is people that have color insensitivity. 
 #### Operating Systems
 
 ### Networking
