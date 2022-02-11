@@ -59,7 +59,7 @@ Hexadecimal representation has a base of 16/ has 16 digits. (ex. 0123456789ABCDE
 4BinaryConversion: conversion of binary form to decimal form 
 The color being shown is a custom color with the description name "Vivied Violet". This color could be problematic because it is a custom color so people would not know the true identity of the color. What needs to be considered is people that have color insensitivity. 
 #### Operating Systems
-
+I typed md IT1025DylanHegedis, then I typed cd to change the directory of my new folder. I then typed dir to get the list and then took a screenshot to show my work. 
 ### Networking
 #### Data Transmission
 #### Hardware
