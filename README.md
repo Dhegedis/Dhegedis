@@ -78,6 +78,10 @@ I typed md IT1025DylanHegedis, then I typed cd to change the directory of my new
 
 ### Software Development
 #### Algorithms
+A Variable is like a box that can store a single value. He uses examples like spam, eggs and bacon because they are often used in Python Tutorials. 
+An Assignment Statement assigns a value to a name. 
+A function is a named section of a code that performs a specific task. 
+The 3 Data Types are integers,Floats, and Strings 
 #### Object Oriented Concepts
 
 ### Database Systems
