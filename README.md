@@ -25,6 +25,10 @@ The first program in discussion is writen in a compiled language like C or C++. 
 Python1: Python1 is the edit of the text to say "Hello, Dylan Hegedis"
 Python2: Python2 is the creation of a short program based on what I learned. 
 #### Graphic Modeling and Rendering
+The difference between rastor and vector imaging is that rastor images lose quality when you enlarge them, where as vector images dont lose quality at all and it does not matter if you make the photo larger or smaller. Knowing the difference of Lossless and Lossy compression is important for web developers because lossless compression does not get rid of any of the data perserved while lossy compression does. 
+JPEGS are more for storing full color images and more complex images. 
+GIFS are made for people that want animated imaging.
+PNG supports transparency options like alpha channel transparency. 
 #### File Compression
 #### Artificial Intelligence
 
