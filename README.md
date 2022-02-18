@@ -66,10 +66,23 @@ The color being shown is a custom color with the description name "Vivied Violet
 I typed md IT1025DylanHegedis, then I typed cd to change the directory of my new folder. I then typed dir to get the list and then took a screenshot to show my work. 
 ### Networking
 #### Data Transmission
+Protocol is the set of rules to allow devices to communicate.
+Packet is the unit of data 
+IP Address is the unique identifying number
+Packet Switching is technology that allows packets of data to be routed based on their destination address. 
+DNS is Directory of websites on the internet 
 #### Hardware
+The Benefit of a Switch over a Hub is that a Switch can send information to 1 specific place unlike a Hub. It is better for security reason and also lowers network Bandwith. 
+A Router is better than both of the other devices because it can send data outside of its local area network because it can store IP Addresses to send the data to. 
 #### Topologies and Types of Networks
+A Single Point failure is when a hub or a switch fails to transfer data. This single point failure can affect the Star topolgy,and the Ring topology. 
+The Wireless mesh of the option that would be more efficient to use. The reason for this is because it is less work with wiring to do the same thing. You also would not have to worry about the wires breaking as well. 
+NETWORK DESIGN:
+I used the network design called Infrastructure. I made it by putting the modem connecting to the router. The routher then connected to a pc via ethernet cable and it also connected to a wireless router which then connected to another pc and a printer in a different location. 
 #### Protocols
-
+Communication: Communication protocols allow different network devices to communicate with eachother. an example of this is instant messaging. 
+Network Management: Network management protocols define and describe the various procedures needed to effectively operate a computer network. An example of this is troubleshooting which is idenfifying an issue through a series of tests. 
+Security: Security protocols were made so that people and send data without having to worry about someone else seeing it if they don't want others to. An example of this is Entity Authentication. Entity authentication protocols create a system that requires different devices or users on a network to verify their identity before accessing secure areas.
 ### Cybersecurity and Encryption
 #### Security Triad
 #### Caesar and Polyalphabetic Ciphers
