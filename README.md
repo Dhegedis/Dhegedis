@@ -85,10 +85,18 @@ Network Management: Network management protocols define and describe the various
 Security: Security protocols were made so that people and send data without having to worry about someone else seeing it if they don't want others to. An example of this is Entity Authentication. Entity authentication protocols create a system that requires different devices or users on a network to verify their identity before accessing secure areas.
 ### Cybersecurity and Encryption
 #### Security Triad
+I am not sure where I was supposed to get the information for this question from but the secuirty for medical records such as MyChart has to be very locked down because medical records are very personal and private information to keep. 
 #### Caesar and Polyalphabetic Ciphers
+Polyalphabetic cipher is to flatten the distrubution of letter frequencies. It is labeled in numbers based on the position it is in the alphabet. Then, the numbers are shifted according to the numbers below it. Ceaser cipher does not do as good of a job at distributing frequencies and moved the main letter 3 letters to the right of the original letter. 
+My Encription was moved 4 spaces to the right to say: wulf kdv d fbehuvhfxulwb fhuwlilfdwh
 #### Public and Private Key Encryption
+With public encryptions, everyone who is listening knows 1 specific detail. To make it a private encryption, the 2 people involved make a secret code to mix in which is then decrypted by the other person to then be able to share with one another. The people listening dont get the full code so they are left wondering what the code actually is. 
 #### Brute-Force Attacks
-
+A way to signal that you are under attack is getting a notification that you have several failed login attempts. 
+A way to defend online attacks is for an operator to add rate-limiting. This slows down a hacker even more than they are already slowed. A VPN is also a great way to help from getting online attacked as well. 
+More ways to prevent these attacks are to have long passwords, use two factor-authentication as well. 
+What i also found interesting was this: "2013: GitHub users are the victims of an online brute force attack"
+A couple ways to defend Offline attacks is salting and hashing. 
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
