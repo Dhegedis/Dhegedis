@@ -83,6 +83,10 @@ I used the network design called Infrastructure. I made it by putting the modem 
 Communication: Communication protocols allow different network devices to communicate with eachother. an example of this is instant messaging. 
 Network Management: Network management protocols define and describe the various procedures needed to effectively operate a computer network. An example of this is troubleshooting which is idenfifying an issue through a series of tests. 
 Security: Security protocols were made so that people and send data without having to worry about someone else seeing it if they don't want others to. An example of this is Entity Authentication. Entity authentication protocols create a system that requires different devices or users on a network to verify their identity before accessing secure areas.
+IP Adress: IP Adresses are unique numbers that are assigned to every device that is connected to the internet. The difference between IPv4 and IPv6 is that IPv6 has a massively bigger address space than IPv4. 
+ICANN: ICANN allocates IP address blocks to the five Regional Internet Registries (RIRS) around the world. They are a non-profit organization that coordinates the maintenance and procedures of several databases of the internet. 
+HTTP is the protocol that is used for viewing web pages. It is an example of a client-server model by it starting from the computer then going through the public internet and then to the server. HTTPS is a secure feature that is used on some websites. It is usually used when people and sending over personal information. Another option that is used to secure data that goes across the interent is SSL. It uses public key encription to secure the data. TLS is the successor to SSL and is what is majorly used today. It does similar tasks such as authenticating and encrypting as well. 
+
 ### Cybersecurity and Encryption
 #### Security Triad
 I am not sure where I was supposed to get the information for this question from but the secuirty for medical records such as MyChart has to be very locked down because medical records are very personal and private information to keep. 
