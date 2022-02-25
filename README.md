@@ -104,7 +104,8 @@ A couple ways to defend Offline attacks is salting and hashing.
 ### Internet Programming
 #### Components of a URL
 #### World Wide Web Consortium
-
+Tim Berners-Lee is the inventor of the world wide web. He invented W3C to improve the quality of the web. 
+The Standard "Web of Devices" seems like it is an important standard to have around. It is important because it allows people to have access to the web form virtually anywhere, anytime. 
 ### Software Development
 #### Algorithms
 A Variable is like a box that can store a single value. He uses examples like spam, eggs and bacon because they are often used in Python Tutorials. 
