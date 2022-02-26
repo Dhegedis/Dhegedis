@@ -103,6 +103,12 @@ What i also found interesting was this: "2013: GitHub users are the victims of a
 A couple ways to defend Offline attacks is salting and hashing. 
 ### Internet Programming
 #### Components of a URL
+Scheme:HTTPS
+Domain:www.amazon.com
+Top Level Domain:.edu 
+Default Page:result of search 
+Parameters:no file path provided
+Anchor:specific location on a page
 #### World Wide Web Consortium
 Tim Berners-Lee is the inventor of the world wide web. He invented W3C to improve the quality of the web. 
 The Standard "Web of Devices" seems like it is an important standard to have around. It is important because it allows people to have access to the web form virtually anywhere, anytime. 
