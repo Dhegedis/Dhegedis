@@ -30,7 +30,7 @@ JPEGS are more for storing full color images and more complex images.
 GIFS are made for people that want animated imaging.
 PNG supports transparency options like alpha channel transparency. 
 #### File Compression
-The Purpose of File Compression is to make it so that what you are sending is smaller in size. This makes the file faster to download and less time to upload. 
+The Purpose of File Compression is to make it so that what you are sending is smaller in size. This makes the file faster to download and less time to upload. The file size before compressing the SVG grapghic was 147KB. After compressing it, it was then 20KB. The difference in size was 127KB and I think I expected the differencial to be less because I did not know that it could shrink it to be that small. 
 #### Artificial Intelligence
 
 ### Career Exploration
