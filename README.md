@@ -30,6 +30,7 @@ JPEGS are more for storing full color images and more complex images.
 GIFS are made for people that want animated imaging.
 PNG supports transparency options like alpha channel transparency. 
 #### File Compression
+The Purpose of File Compression is to make it so that what you are sending is smaller in size. This makes the file faster to download and less time to upload. 
 #### Artificial Intelligence
 
 ### Career Exploration
