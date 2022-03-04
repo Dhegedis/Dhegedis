@@ -120,7 +120,7 @@ An Assignment Statement assigns a value to a name.
 A function is a named section of a code that performs a specific task. 
 The 3 Data Types are integers,Floats, and Strings 
 #### Object Oriented Concepts
-
+The attributes for the shark class is swimming and being awesome. The methods are the functions that are indented underneath the class. The constructor's purpose is to intialize the data. The difference between a class and an object is that an object is an instance of a class. You take the class and then you use it to create an object or instance of it. 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
 #### Data and Business Decisions
