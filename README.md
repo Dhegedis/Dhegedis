@@ -124,8 +124,19 @@ The attributes for the class is swimming and being awesome. The methods are that
 Inheritance is the mechanism for making new classes from an old one. I made a third shark from the example of the first one.  
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+SQL is a language that can be used to work with a relational database.
+A NoSQL database can work with data in a looser way, allowing for a more unstructured environment, communicating changes to the data over time to all the servers that are part of the database.
+Volume: The Size of the Data 
+Variety: Variety refers to heterogeneous sources and the nature of data, both structured and unstructured. 
+Velocity: How fast the data is generated and processed to meet the demands, determines real potential in the data.
+Variability: This refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+Some technologies that have driven the need for Big Data are the Stock market, Social media, and Jet Engines and many more. 
 #### Data and Business Decisions
-#### The relational model and Normalization
+1 business decision that can be made with a set of data could be how many hours people get based of performance. 
+the 2nd business decision can be how much people make based on position. 
+the third business decision can be who will be promoted based on performance. 
+#### The Relational Model and Normalization
+These keys/normalization can be essential to my business decisions because it can make the data more organized. 
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
