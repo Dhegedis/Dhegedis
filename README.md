@@ -132,9 +132,9 @@ Velocity: How fast the data is generated and processed to meet the demands, dete
 Variability: This refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
 Some technologies that have driven the need for Big Data are the Stock market, Social media, and Jet Engines and many more. 
 #### Data and Business Decisions
-1 business decision that can be made with a set of data could be how many hours people get based of performance. 
-the 2nd business decision can be how much people make based on position. 
-the third business decision can be who will be promoted based on performance. 
+1 business decision that can be made with a set of data could be peoples names 
+the 2nd business decision can be how many hours people have.  
+the third business decision can be what department people work in. 
 #### The Relational Model and Normalization
 These keys/normalization can be essential to my business decisions because it can make the data more organized. 
 #### SQL Injections
