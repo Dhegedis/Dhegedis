@@ -138,7 +138,7 @@ the third business decision can be what department people work in.
 #### The Relational Model and Normalization
 These keys/normalization can be essential to my business decisions because it can make the data more organized. 
 #### SQL Injections
-
+SQL Injections can be considered a threat because when you ask a user for an input, instead of a username and password, the user gives you an SQL statement that you will unknowingly run on your database. To protect from hackers, you can use SQL Parameters. 
 ### Legal and Ethical Responsibilities in Computing
 
 ## Conclusion
