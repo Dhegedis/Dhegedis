@@ -1,7 +1,7 @@
 ## Dylan Hegedis / 1/22/22
 
 ## Executive Summary
-To be completed in the last module of the semester.
+The focus of this class was simply an intoduction to coding and learning the functions of systems and programs. This course went into depth on how to make programs and systems as well. I was taught a lot of information that I did not know prior to beginning this course either so that was nice. I was taught about coding and how to do it. I made my own design and I learned the ins and outs of programs. I learned how they work and what certain parts of things do and how they work to come together to work as well. I leanred about some companys problems that I did not know about at all. I learned some of the biggest mistakes about companies as well which were very interesting too. 
 
 ### Information System Components
 The Hardware portion of an amazon purchase is using a physical device to make an online purchase. People then are using the premade software to make a purchase by the software making its instructions and telling the hardware what to do. You then have to put in your information to make the online purchase which is called data. The data is the stored information such as your address, payment info, name, zip code etc. The people that are involved with making the online purchase are the Amazon Employees that made the software so that people are able to make an online purchase. When making an online purchase through Amazon, you must go through a process or a series of steps to making said purchase. These steps include: adding items to the cart, checking out, putting in information, then confiriming your purchase. 
@@ -140,6 +140,9 @@ These keys/normalization can be essential to my business decisions because it ca
 #### SQL Injections
 SQL Injections can be considered a threat because when you ask a user for an input, instead of a username and password, the user gives you an SQL statement that you will unknowingly run on your database. To protect from hackers, you can use SQL Parameters. 
 ### Legal and Ethical Responsibilities in Computing
-
+Code of Ethics: A code of ethics is a document that outlines a set of acceptable behaviors for a professional or social group. 
+The ACM created a code of ethics because they needed a set of rules that are accecptable for people to follow. 
+The role of a trademark on my svg photo is to show that it is originally made by me and I own the intellectual property rights of the photo. It would also be important to copyright the photo so that way nobody else can "copy" the photo and claim it as their own making. 
+COPPA, FERPA and HIPPA restrict the collection of information on the internet because not all information is needed to be public information. These also are used to protect people intellectual property rights as well. 
 ## Conclusion
-To be completed in the last module of the semester.
+In conclusion, I feel that I had a diffuclt and troubling time with this class but that is mainly blaming myself. I usually over think a lot of the work that and that is why I think that I had a difficult time but when I would figure out the work I had a good time. I am not sure if this is the career path that I am going to follow but time will tell. I do not have any future considerations for this class. I think that this class was well layed out personally. 
